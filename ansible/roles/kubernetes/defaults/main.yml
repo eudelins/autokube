@@ -9,5 +9,5 @@ kubernetes_prerequisites_packages:
   - lsb-release
   - bridge-utils
 
-kubernetes_version: 1.29.3-1.1
+kubernetes_version: 1.29.4-2.1
 
